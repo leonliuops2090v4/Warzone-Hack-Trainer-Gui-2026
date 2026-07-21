@@ -6,7 +6,7 @@
 ![Version](https://img.shields.io/badge/Version-2026-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-orange?style=for-the-badge)
 
-![photo](assets/1000.png)
+![photo](Data/1000.png)
 
 **Best Warzone Hack 2026** — powerful undetected cheat for Call of Duty: Warzone and Modern Warfare 3. Delivers a massive competitive advantage with smooth aimbot, advanced ESP, and premium features.
 
